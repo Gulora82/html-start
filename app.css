@@ -1,3 +1,24 @@
-h2 {
+/* h2 {
     color: rgb(0, 255, 132);
+}
+h3 {
+    color: rgb(61, 153, 125);
+    width: 500px;
+    height: 40px;
+    background-color: #2b2b72;
+    border: 300px;
+    margin: 40px;
+    bottom: 600px;
+
+} */
+    h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
 }
