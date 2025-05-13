@@ -11,9 +11,7 @@ h3 {
     bottom: 600px;
 
 } */
-    h1 {
-  background-color: green;
-}
+
 
 div {
   background-color: lightblue;
@@ -21,4 +19,14 @@ div {
 
 p {
   background-color: yellow;
+}
+.birinchi_h1 {
+  background-color: rgb(136, 242, 14);
+  color: white;
+  padding: 20px ;
+}
+.ikkinchi_h1 {
+  background-color: rgb(11, 126, 226);
+  color: rgb(12, 240, 12);
+  padding:  10px 0px 10px 20px;
 }
